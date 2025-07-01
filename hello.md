@@ -1,2 +1,3 @@
 # I am learning to use git ! 
-# Hello! 
+# Hello!
+# Hi!  
